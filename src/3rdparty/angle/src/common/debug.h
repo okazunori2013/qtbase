@@ -9,6 +9,8 @@
 #ifndef COMMON_DEBUG_H_
 #define COMMON_DEBUG_H_
 
+#include <mutex>
+
 #include <assert.h>
 #include <stdio.h>
 
